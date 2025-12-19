@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Preeti Dutta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 💬 Ask me about **anything**
+
 - 📫 How to reach me **preetidutta620@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/preetidutta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/preetidutta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/preetidutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preetidutta" height="30" width="40" /></a>
+<a href="https://fb.com/preeti dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="preeti dutta" height="30" width="40" /></a>
+<a href="https://instagram.com/preety_dutta15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="preety_dutta15" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/preetidutta15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="preetidutta15" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/preetidutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="preetidutta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
